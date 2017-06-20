@@ -2,4 +2,4 @@
 I will blog randomly about different things that cross my mind.
 
 ### Who am I
-I am Dennis a thirty-something years old coding monkey from Berlin.
+I am Dennis a thirty-something years old software developer from Berlin.
